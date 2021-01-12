@@ -18,6 +18,8 @@
 
 - [@07rv](https://github.com/07rv/)
 
+- [@sophiya](https://github.com/sophiya02)
+
 - [@mfrank37](https://github.com/mfrank37)
 
 - [@ChetanDehane](https://github.com/ChetanDehane)
